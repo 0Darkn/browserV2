@@ -1,3 +1,44 @@
+**script COMPLETO**
+
+✔ Menu
+✔ Botões
+✔ Abrir ficheiro
+✔ Abrir URL
+✔ Guardar link (favoritos)
+✔ Guardar onde (pasta configurável)
+✔ Histórico
+✔ Sair
+✔ Explicações embutidas no código
+
+Compatível com **Windows / Linux / macOS** (PyQt5).
+
+---
+
+## ✅ O que este script já faz
+
+* Navegador com abas
+* Menu completo
+* Botões
+* Favoritos
+* Histórico
+* Escolha de pasta
+* Abrir ficheiros HTML locais
+* Abrir URLs
+* Código limpo e extensível
+
+---
+
+Próximo passo:
+
+* 🔹 Converter favoritos/histórico para **XML**
+* 🔹 Adicionar **atalhos de teclado**
+* 🔹 Criar versão **Qt6**
+* 🔹 Tema escuro
+* 🔹 Empacotar em **EXE**
+
+
+
+---
 
 **SCRIPT COMPLETO convertido para XML**, onde:
 
