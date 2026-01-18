@@ -1,12 +1,12 @@
 
 **SCRIPT COMPLETO convertido para XML**, onde:
 
-✔ Favoritos → `favorites.xml`
-✔ Histórico → `history.xml`
-✔ Criação automática dos ficheiros XML
-✔ Leitura / escrita estruturada
-✔ Mantém menus, botões e abas
-✔ Código comentado (PT-PT)
+- ✔ Favoritos → `favorites.xml`
+- ✔ Histórico → `history.xml`
+- ✔ Criação automática dos ficheiros XML
+- ✔ Leitura / escrita estruturada
+- ✔ Mantém menus, botões e abas
+- ✔ Código comentado (PT-PT)
 
 ---
 
