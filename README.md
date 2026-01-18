@@ -91,10 +91,10 @@ Próximo passo:
 
 ## ✅ Benefícios do XML
 
-✔ Estruturado
-✔ Fácil de expandir (data, título, ícone)
-✔ Compatível com HTML, Qt, web, Arduino, etc.
-✔ Ideal para logs e favoritos
+- ✔ Estruturado
+- ✔ Fácil de expandir (data, título, ícone)
+- ✔ Compatível com HTML, Qt, web, Arduino, etc.
+- ✔ Ideal para logs e favoritos
 
 ---
 
@@ -107,4 +107,3 @@ Próximo passo:
 * 🌓 Tema escuro
 * 🔑 Autenticação
 
-Se quiseres, digo já o **próximo passo recomendado** 😉
