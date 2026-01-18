@@ -14,7 +14,6 @@ venv\Scripts\activate
 source venv/bin/activate
 
 ---
-**script COMPLETO**
 
 - ✔ Menu
 - ✔ Botões
