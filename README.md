@@ -1,14 +1,14 @@
 **script COMPLETO**
 
-✔ Menu
-✔ Botões
-✔ Abrir ficheiro
-✔ Abrir URL
-✔ Guardar link (favoritos)
-✔ Guardar onde (pasta configurável)
-✔ Histórico
-✔ Sair
-✔ Explicações embutidas no código
+- ✔ Menu
+- ✔ Botões
+- ✔ Abrir ficheiro
+- ✔ Abrir URL
+- ✔ Guardar link (favoritos)
+- ✔ Guardar onde (pasta configurável)
+- ✔ Histórico
+- ✔ Sair
+- ✔ Explicações embutidas no código
 
 Compatível com **Windows / Linux / macOS** (PyQt5).
 
